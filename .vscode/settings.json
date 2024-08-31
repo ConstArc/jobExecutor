@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "strings.h": "c",
+        "errno.h": "c",
+        "common.h": "c",
+        "parsingutils.h": "c"
+    }
+}
