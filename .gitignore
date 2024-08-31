@@ -1,0 +1,7 @@
+/bin
+/build
+/valgrind
+/output
+/errors
+kill_zombies.sh
+count.sh
